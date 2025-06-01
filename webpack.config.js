@@ -1,5 +1,5 @@
 const { resolve } = require("path")
-const { env } = require("process")
+const { env } = require("proces")
 const webpack = require('webpack')
 
 const entry = {
